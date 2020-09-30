@@ -1,0 +1,27 @@
+[
+  {
+    "id": 0,
+    "name": "Hiking",
+    "image": "https://img.icons8.com/?id=VynP9vjnrlKb&size=2x"
+  },
+  {
+    "id": 1,
+    "name": "Kayaking",
+    "image": "https://img.icons8.com/?id=WA9WCEoW1KK3&size=2x"
+  },
+  {
+    "id": 2,
+    "name": "Balloning",
+    "image": "https://img.icons8.com/?id=nP39MB6Sp16d&size=2x"
+  },
+  {
+    "id": 3,
+    "name": "Snorkeling",
+    "image": "https://img.icons8.com/?id=1ycRBRDxUK3t&size=2x"
+  },
+  {
+    "id": 4,
+    "name": "Safari",
+    "image": "https://img.icons8.com/?id=Dpzqkm6CMmt0&size=2x"
+  }
+]
